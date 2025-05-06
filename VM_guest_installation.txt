@@ -9,3 +9,6 @@ give it some time to boot
 then let the installation of ubuntu and all drivers be done
 then it will ask for a reboot
 then go to devices and select the vboxguest.iso file and once booting is done you will have the vbox guest addition added
+install all the necessary packages that are needed
+then reboot
+then try copy paste
