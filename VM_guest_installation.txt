@@ -1,0 +1,11 @@
+first normally create a new vm without any guest iso
+then once the vm is created
+go to storage - remove the ubuntu.iso 
+and add the vboxguestadditon.iso as IDE0 secondary device 0
+and in general > advanced > enable birectorial copy and drag
+and for the network change the network to bridged
+start if you get vm failed to boot select the ubuntu.iso image
+give it some time to boot
+then let the installation of ubuntu and all drivers be done
+then it will ask for a reboot
+then go to devices and select the vboxguest.iso file and once booting is done you will have the vbox guest addition added
